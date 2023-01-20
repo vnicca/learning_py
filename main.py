@@ -1,4 +1,4 @@
-
+# write a class of fractions and functions: addition, subtraction, multiplication and division
 def gcd(m,n):
     while m%n != 0:
         oldm = m
