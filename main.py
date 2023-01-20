@@ -1,7 +1,4 @@
-# def show(self):
-#      print(self.num,"/",self.den)
-# def __str__(self):
-#     return str(self.num)+"/"+str(self.den)
+
 def gcd(m,n):
     while m%n != 0:
         oldm = m
